@@ -9,7 +9,7 @@ fs.copyFile("db.json", os.tmpdir() + "/db.json", function (err) {
 });
 
 const server = jsonServer.create();
-const router = jsonServer.router(path.resolve(os.tmpdir() + "/db.json"));
+const router = jsonServer.router(path.resolve("/tmp/db.json"));
 
 const middlewares = jsonServer.defaults();
 
