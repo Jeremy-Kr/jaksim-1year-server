@@ -1,9 +1,147 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "content": [
+    {
+      "id": "temptmeptmeptmetpemprmer",
+      "nickname": "이정익",
+      "password": "1234",
+      "contentTitle": "올해 안에 취업하기ee",
+      "contentWhy": "돈 벌기 위해서ee",
+      "contentHow": "매일매일 꾸준히 공부하기ee",
+      "contentWhen": "2023년이 지나가기 ee"
+    },
+    {
+      "id": "Z9vgsAV8BDHHtGh5GkM5_",
+      "nickname": "asdf",
+      "password": "asdf",
+      "contentTitle": "asdf",
+      "contentWhy": "asdf",
+      "contentHow": "asdf",
+      "contentWhen": "asdf"
+    },
+    {
+      "id": "UUzSzIIIUTEpqSH76FyDb",
+      "nickname": "zxcv",
+      "password": "zxcv",
+      "contentTitle": "zxcv",
+      "contentWhy": "zxcv",
+      "contentHow": "zxcv",
+      "contentWhen": "zxcv"
+    },
+    {
+      "id": "STcnq1Njd2awvpp8qUHrh",
+      "nickname": "asdf",
+      "password": "asdf",
+      "contentTitle": "asdf",
+      "contentWhy": "asdf",
+      "contentHow": "asdf",
+      "contentWhen": "asdf"
+    },
+    {
+      "id": "1",
+      "nickname": "asdf",
+      "password": "asdf",
+      "contentTitle": "asdf",
+      "contentWhy": "asdf",
+      "contentHow": "asdf",
+      "contentWhen": "asdf"
+    },
+    {
+      "id": "2",
+      "nickname": "zxcv",
+      "password": "zxcv",
+      "contentTitle": "zxcv",
+      "contentWhy": "zxcv",
+      "contentHow": "zxcv",
+      "contentWhen": "zxcv"
+    },
+    {
+      "id": "3",
+      "nickname": "asdf",
+      "password": "asdf",
+      "contentTitle": "asdf",
+      "contentWhy": "asdf",
+      "contentHow": "asdf",
+      "contentWhen": "asdf"
+    },
+    {
+      "id": "4",
+      "nickname": "asdf",
+      "password": "asdf",
+      "contentTitle": "asdf",
+      "contentWhy": "asdf",
+      "contentHow": "asdf",
+      "contentWhen": "asdf"
+    },
+    {
+      "id": "5",
+      "nickname": "zxcv",
+      "password": "zxcv",
+      "contentTitle": "zxcv",
+      "contentWhy": "zxcv",
+      "contentHow": "zxcv",
+      "contentWhen": "zxcv"
+    },
+    {
+      "id": "6",
+      "nickname": "asdf",
+      "password": "asdf",
+      "contentTitle": "asdf",
+      "contentWhy": "asdf",
+      "contentHow": "asdf",
+      "contentWhen": "asdf"
+    },
+    {
+      "id": "7",
+      "nickname": "asdf",
+      "password": "asdf",
+      "contentTitle": "asdf",
+      "contentWhy": "asdf",
+      "contentHow": "asdf",
+      "contentWhen": "asdf"
+    },
+    {
+      "id": "8",
+      "nickname": "zxcv",
+      "password": "zxcv",
+      "contentTitle": "zxcv",
+      "contentWhy": "zxcv",
+      "contentHow": "zxcv",
+      "contentWhen": "zxcv"
+    },
+    {
+      "id": "9",
+      "nickname": "asdf",
+      "password": "asdf",
+      "contentTitle": "asdf",
+      "contentWhy": "asdf",
+      "contentHow": "asdf",
+      "contentWhen": "asdf"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    {
+      "id": "MtCaKQ9NjNcl0TcfXuStI",
+      "postId": "temptmeptmeptmetpemprmer",
+      "nickname": "asdf",
+      "password": "asdf",
+      "commentText": "asdf",
+      "date": 1672023783961
+    },
+    {
+      "id": "werfSN4h6yjxF_cOkWREF",
+      "postId": "temptmeptmeptmetpemprmer",
+      "nickname": "qwer",
+      "password": "wqer",
+      "commentText": "qwer",
+      "date": 1672023796399
+    },
+    {
+      "id": "RF2bYjeXt0Nq6PWaJS2K1",
+      "postId": "Q3iMTDyUxAQEoc44ZzSVz",
+      "nickname": "asdfqwer",
+      "password": "asdf",
+      "commentText": "qwer",
+      "date": 1672038991786
+    }
+  ]
 }
